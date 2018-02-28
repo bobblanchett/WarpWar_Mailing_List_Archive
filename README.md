@@ -10,9 +10,10 @@ A mbox archive of the transferred messages is in this repository.
 
 A small low traffic Google+ warpwar group has also been setup at https://plus.google.com/u/0/communities/106687884156103733179
 
-## 
+## Development of this Archive
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NTk1MDQxNF19
+eyJoaXN0b3J5IjpbLTI5NTgxMDMwMF19
 -->
