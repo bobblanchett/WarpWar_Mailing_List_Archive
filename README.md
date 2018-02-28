@@ -15,11 +15,12 @@ A small low traffic Google+ warpwar group has also been setup at https://plus.go
  1. Markdown Conversion
  2. Browsable Message Corpus
  3. Serve repo contents on GithubPages
- 4. Maintain Repo with new material
+ 4. Maintain repo with new material
 ### Markdown Conversion
 ### Browsable Message Corpus
-### 
+### Serve repo contents on GitHub Pages
+### Maintain repo 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNTkzNzQyOF19
+eyJoaXN0b3J5IjpbMTEyMzI3MzIzN119
 -->
