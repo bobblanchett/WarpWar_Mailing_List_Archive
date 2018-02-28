@@ -23,9 +23,9 @@ Convert the mbox archive taken from the groups.io copy to a browsable serachable
 ### Serve repo contents on GitHub Pages
 Make the contents of the repo directly available on the open web. 
 ### Maintain repo with new material
-Keeping the archive of the earlier work done by the WWDG and since on BoardgameGeek and yahoo  
+Keeping the archive of the earlier work done by the WWDG and since on BoardgameGeek and yahoo current and available, ensuring the contuing availability of   
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NzMxOTQ0N119
+eyJoaXN0b3J5IjpbMTk0NDk3NDEwMV19
 -->
