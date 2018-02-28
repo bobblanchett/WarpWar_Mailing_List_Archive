@@ -1,11 +1,7 @@
 # WarpWar_Mailing_List_Archive
 This archive contains the  Messages, Files and Photos sections of the Yahoo! WarpWar Mailing List.
 
-The Master copy of this archive will always be available at +Chuck McKnight has managed to get copies of the album photos (and also the files!) off yahoo and put them up on github
-
-I'll fork this repo add the messages archive and start marking up the text files to Markdown, which are easily converted to PDF, EPUB etc
-
-I've forked his upload to https://github.com/bobblanchett/WarpWar_Mailing_List_Archive and will update it with details of the further work that is required and how you can contribute, now and down the track.
+The Master copy of this archive will always be available at  https://github.com/bobblanchett/WarpWar_Mailing_List_Archive 
 
 The Yahoo mailing list is at https://groups.yahoo.com/neo/groups/WarpWar/conversations/topics
 
@@ -38,5 +34,5 @@ Keeping the archive of the earlier work done by the WWDG and since on BoardgameG
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NTk1MDM1M119
+eyJoaXN0b3J5IjpbODQyODMyOTk1XX0=
 -->
