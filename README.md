@@ -19,11 +19,12 @@ A small low traffic Google+ warpwar group has also been setup at https://plus.go
 ### Markdown Conversion
 Convert all plaintext files and any other files as appropriate to Markdown Format
 ### Browsable Message Corpus
-Convert the mbox archive taken 
+Convert the mbox archive taken from the groups.io copy to a browsable serachable format suitable for GHP and the open web.
 ### Serve repo contents on GitHub Pages
+Make the contents 
 ### Maintain repo with new material
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MDE3MDcxNV19
+eyJoaXN0b3J5IjpbNjE4OTYyNzgxXX0=
 -->
