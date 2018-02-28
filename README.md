@@ -1,6 +1,8 @@
 # WarpWar_Mailing_List_Archive
 This archive contains the  Messages, Files and Photos sections of the Yahoo! WarpWar Mailing List.
 
+The
+
 The Yahoo mailing list is at https://groups.yahoo.com/neo/groups/WarpWar/conversations/topics
 
 The Point-in-time copy of the message corpus is in this archive and was also transferred to a Groups.io group given the increasing unreliability of the Yahoo Groups service,
@@ -25,9 +27,12 @@ Make the contents of the repo directly available on the open web.
 ### Maintain repo with new material
 Keeping the archive of the earlier work done by the WWDG and since on BoardgameGeek and yahoo current and available, ensuring the continuing availability of the work, through a public, downloadable archive.
 
-## Contributing to
+## Contributing to the Archive
+
+### Tools
+### Process
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3OTY4MTM2XX0=
+eyJoaXN0b3J5IjpbMTI2OTgwMDU1NF19
 -->
