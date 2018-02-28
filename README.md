@@ -7,9 +7,9 @@ The Point-in-time copy of the message corpus is in this archive and was also tra
 
 The Groups.io warpwar group is at https://groups.io/g/warpwar/
 
-A small low traffic Google+ warpwar group has al
+A small low traffic Google+ warpwar group has also been setup 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MzgyNDAwNV19
+eyJoaXN0b3J5IjpbMTU4NjM5NzIzNF19
 -->
