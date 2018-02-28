@@ -12,8 +12,9 @@ A small low traffic Google+ warpwar group has also been setup at https://plus.go
 
 ## Development of this Archive
 
-
+ 1. Markdown Conversion
+ 2. Browsable Message Corpus
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NTgxMDMwMF19
+eyJoaXN0b3J5IjpbMTkxNzk3OTI3MF19
 -->
