@@ -32,8 +32,10 @@ Keeping the archive of the earlier work done by the WWDG and since on BoardgameG
 ### Tools
 Use of StackEdit is suggested (https:stackedit.io)
 ### Process
- 
+ 1. Become a  Repo Collaborator on GitHub
+ 2. Fork the Repo
+ 3. Make Modifications by email or Pull Request.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU5MTEzMDY4XX0=
+eyJoaXN0b3J5IjpbNzc3Nzc1Mjk4XX0=
 -->
