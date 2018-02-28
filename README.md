@@ -21,10 +21,11 @@ Convert all plaintext files and any other files as appropriate to Markdown Forma
 ### Browsable Message Corpus
 Convert the mbox archive taken from the groups.io copy to a browsable serachable format suitable for GHP and the open web.
 ### Serve repo contents on GitHub Pages
-Make the contents of the repodirectly 
+Make the contents of the repo directly available on the open web. 
 ### Maintain repo with new material
+
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMzcyNzEzOV19
+eyJoaXN0b3J5IjpbLTEzMzI4NDc4MTRdfQ==
 -->
