@@ -30,9 +30,10 @@ Keeping the archive of the earlier work done by the WWDG and since on BoardgameG
 ## Contributing to the Archive
 
 ### Tools
+Use of StackEdit is suggested (https:stackedit.io)
 ### Process
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQyODMyOTk1XX0=
+eyJoaXN0b3J5IjpbNDU5MTEzMDY4XX0=
 -->
