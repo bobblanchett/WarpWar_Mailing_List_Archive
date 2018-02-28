@@ -5,9 +5,11 @@ The Yahoo mailing list is at https://groups.yahoo.com/neo/groups/WarpWar/convers
 
 The Point-in-time copy of the message corpus is in this archive and was also transferred to a Groups.io group given the increasing unreliability of the Yahoo Groups service,
 
-The Groups.io warpwar group is at
+The Groups.io warpwar group is at https://groups.io/g/warpwar/
+
+A small low traffic Google+ warpwar group has al
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNzA0MTYwN119
+eyJoaXN0b3J5IjpbMTc1MzgyNDAwNV19
 -->
