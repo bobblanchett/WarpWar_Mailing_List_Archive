@@ -3,7 +3,7 @@ This archive contains the  Messages, Files and Photos sections of the Yahoo! War
 
 The Master copy of this archive will always be available at  https://github.com/bobblanchett/WarpWar_Mailing_List_Archive 
 
-The Yahoo Groups Warpwar mailing list is 
+The Yahoo Groups Warpwar mailing list  
 The Point-in-time copy of the message corpus is in this archive and was also transferred to a Groups.io group given the increasing unreliability of the Yahoo Groups service,
 
 The [Groups.io warpwar group](https://groups.io/g/warpwar/) has been established as a point-in-time copy of the Yahoo Group
@@ -35,5 +35,5 @@ Use of [StackEdit](https://stackedit.io/) is suggested
  3. Make Modifications by email or Pull Request.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NDQ1NzIwNV19
+eyJoaXN0b3J5IjpbLTg2NjQ4MTkwOV19
 -->
