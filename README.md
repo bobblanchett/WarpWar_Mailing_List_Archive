@@ -30,12 +30,12 @@ Keeping the archive of the earlier work done by the WWDG and since on BoardgameG
 ## Contributing to the Archive
 
 ### Tools
-Use of StackEdit is suggested (https:stackedit.io)
+Use of [StackEdit](https://stackedit.io/) is suggested 
 ### Process
  1. Become a  Repo Collaborator on GitHub
  2. Fork the Repo, if you want.
  3. Make Modifications by email or Pull Request.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3OTkzNDI1XX0=
+eyJoaXN0b3J5IjpbMjA5OTI5NDY0MF19
 -->
