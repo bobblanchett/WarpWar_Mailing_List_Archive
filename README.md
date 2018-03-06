@@ -7,11 +7,10 @@ The Yahoo mailing list is at https://groups.yahoo.com/neo/groups/WarpWar/convers
 
 The Point-in-time copy of the message corpus is in this archive and was also transferred to a Groups.io group given the increasing unreliability of the Yahoo Groups service,
 
-The Groups.io warpwar group is at https://groups.io/g/warpwar/
+The Groups.io warpwar group is 
 A mbox archive of the transferred messages is in this repository.
 
-A small low traffic Google+ warpwar group has also been setup at https://plus.google.com/u/0/communities/106687884156103733179
-
+A small low traffic [Google+ warpwar group](https://plus.google.com/u/0/communities/106687884156103733179) has also been setup 
 ## Development of this Archive
 
  1. Markdown Conversion
@@ -37,5 +36,5 @@ Use of [StackEdit](https://stackedit.io/) is suggested
  3. Make Modifications by email or Pull Request.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NzEzODIxNF19
+eyJoaXN0b3J5IjpbMjA4NTg5Nzc2OF19
 -->
