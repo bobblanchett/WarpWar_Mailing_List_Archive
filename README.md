@@ -35,12 +35,11 @@ Use of [StackEdit](https://stackedit.io/) is suggested
  - Make Modifications by email or Pull Request.
  - Email [the WW Archive Bot ](mailto:warpwararchive@fire.fundersclub.com) attaching new or modified material
  
- ## Thanks
- Thanks to  
+ ## Thanks  
  
  - [Fred Kiesche](mailto:recursive_loop@yahoo.com) for running the Yahoo List
  - Shaun Travers for releasing his work into the Public Domain
- - 
+ - Chuck McKnight for scraping the photo albums  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDQ0NzAyMjhdfQ==
+eyJoaXN0b3J5IjpbMTg2Mjg3MTkwOF19
 -->
