@@ -39,7 +39,7 @@ Use of [StackEdit](https://stackedit.io/) is suggested
  
  - [Fred Kiesche](mailto:recursive_loop@yahoo.com) for running the Yahoo List
  - Shaun Travers for releasing his work into the Public Domain
- - Chuck McKnight for scraping the photo albums  
+ - Chuck McKnight for scraping the photo albums and files into github  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2Mjg3MTkwOF19
+eyJoaXN0b3J5IjpbMTU0NjUxMjc1NV19
 -->
