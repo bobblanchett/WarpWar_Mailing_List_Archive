@@ -30,13 +30,17 @@ Keeping the archive of the earlier work done by the WWDG and since on BoardgameG
 ### Tools
 Use of [StackEdit](https://stackedit.io/) is suggested 
 ### Process
- 1. Become a  Repo Collaborator on GitHub
- 2. Fork the Repo, if you want.
- 3. Make Modifications by email or Pull Request.
- 4. Email [the WW Archive Bot ](mailto:warpwararchive@fire.fundersclub.com) attaching new or modified material
+ - Become a  Repo Collaborator on GitHub
+ - Fork the Repo, if you want.
+ - Make Modifications by email or Pull Request.
+ - Email [the WW Archive Bot ](mailto:warpwararchive@fire.fundersclub.com) attaching new or modified material
  
  ## Thanks
- Thanks to  [Fred Kiesche](mailto:recursive_loop@yahoo.com)
+ Thanks to  
+ 
+ - [Fred Kiesche](mailto:recursive_loop@yahoo.com) for running the Yahoo List
+ - Shaun Travers for releasing his work into the Public Domain
+ - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMDU2NjgwNl19
+eyJoaXN0b3J5IjpbLTE2NDQ0NzAyMjhdfQ==
 -->
