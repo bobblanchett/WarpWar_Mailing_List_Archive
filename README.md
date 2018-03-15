@@ -35,7 +35,8 @@ Use of [StackEdit](https://stackedit.io/) is suggested
  3. Make Modifications by email or Pull Request.
  4. Email [the WW Archive Bot ](mailto:warpwararchive@fire.fundersclub.com) attaching new or modified material
  
- 
+ ## Thanks
+ Thanks to Fred Kiesche 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzQ4MDQ3MjVdfQ==
+eyJoaXN0b3J5IjpbLTIwNjQxNzE0NjFdfQ==
 -->
