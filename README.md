@@ -17,7 +17,7 @@ A small low traffic [Google+ warpwar group](https://plus.google.com/u/0/communit
  3. Serve repo contents on GithubPages
  4. Maintain repo with new material
 ### Markdown Conversion
-Convert all plaintext files and any other files as appropriate to [Markdown Format](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+Convert all plaintext files and any other files as appropriate to [Markdown Format](https://help.github.com/articles/basic-writing-and-formatting-syntax/) for easy readability and conversion to other formats (PDF, EPUB,MOBI etc) 
 ### Browsable Message Corpus
 Convert the mbox archive taken from the groups.io copy to a browsable searchable format suitable for GHP and the open web.
 ### Serve repo contents on GitHub Pages
@@ -37,5 +37,5 @@ Use of [StackEdit](https://stackedit.io/) is suggested
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0Mzc5NTAxNF19
+eyJoaXN0b3J5IjpbLTE0MzQ4MDQ3MjVdfQ==
 -->
