@@ -33,7 +33,8 @@ Use of [StackEdit](https://stackedit.io/) is suggested
  1. Become a  Repo Collaborator on GitHub
  2. Fork the Repo, if you want.
  3. Make Modifications by email or Pull Request.
+ 4. Email [the WW Archive Bot ](mailto:warpwararchive@fire.fundersclub.com)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NjAxMTc3NV19
+eyJoaXN0b3J5IjpbMTEyMDk3NDc2XX0=
 -->
