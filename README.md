@@ -36,7 +36,7 @@ Use of [StackEdit](https://stackedit.io/) is suggested
  4. Email [the WW Archive Bot ](mailto:warpwararchive@fire.fundersclub.com) attaching new or modified material
  
  ## Thanks
- Thanks to Fred Kiesche 
+ Thanks to  [Fred Kiesche](mailto:recursive_loop@yahoo.com)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjQxNzE0NjFdfQ==
+eyJoaXN0b3J5IjpbMTYzMDU2NjgwNl19
 -->
